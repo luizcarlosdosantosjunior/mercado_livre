@@ -1,7 +1,8 @@
-<img width="480" height="476" alt="logo" src="https://github.com/user-attachments/assets/84ec03f1-910d-4fd0-b0ae-5dc77bf2bf94" />
 # Mercado Livre
 
 ![Imagem Ilustrativa do Mercado Livre](logo.jpg)
+<img width="480" height="476" alt="logo" src="https://github.com/user-attachments/assets/84ec03f1-910d-4fd0-b0ae-5dc77bf2bf94" />
+
 
 ## Descrição
 O Mercado Livre é a maior plataforma de comércio eletrônico e ecossistema de soluções financeiras da América Latina. Ele funciona como um marketplace que conecta compradores e vendedores, permitindo a comercialização de uma vasta gama de produtos novos e usados. O sistema deve ser utilizado quando um usuário deseja pesquisar, comparar preços e realizar compras online com segurança, ou quando pessoas físicas e empresas buscam um canal digital de grande alcance para vender seus produtos.
