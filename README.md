@@ -30,8 +30,9 @@ O ecossistema do Mercado Livre utiliza uma arquitetura baseada em microsserviço
 * **Uso via Dispositivos Móveis:** Smartphone ou tablet com sistemas operacionais Android ou iOS, além de conexão de dados (Wi-Fi, 3G, 4G, 5G).
 
 ## Desenvolvedores
-* [Insira o Nome Completo do Integrante 1 aqui]
-* [Insira o Nome Completo do Integrante 2 aqui]
-* [Insira o Nome Completo do Integrante 3 aqui]
-* [Insira o Nome Completo do Integrante 4 aqui]
-* [Insira o Nome Completo do Integrante 5 aqui]
+* Guilherme Alexandre Ciatti Uriel RGM: 47440325
+* Gabriel Silva RGM: 48827894
+* Luyde Amorim Cerqueira RGM: 49746952
+* Luiz Carlos dos Santos Junior RGM: 48007226
+* Rayane Andrade Faustino RGM:48131181
+* Lavinia Nunes Mesquita RGM 49672771  
