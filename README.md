@@ -23,8 +23,7 @@ O Mercado Livre é a maior plataforma de comércio eletrônico e ecossistema de 
 
 ## Aplicação
 
-![Uploading Projeto de Vídeo.gif…]()
-
+![GIF animado]([https://github.com/user-attachments/assets/exemplo.gif](https://acadcruzeirodosul-my.sharepoint.com/my?id=%2Fpersonal%2Fluizjunior004%5Fcs%5Fbrazcubas%5Fedu%5Fbr%2FDocuments%2FV%C3%ADdeos%2FClipchamp%2FProjeto%20de%20V%C3%ADdeo%2FExports%2FProjeto%20de%20V%C3%ADdeo%2Egif&parent=%2Fpersonal%2Fluizjunior004%5Fcs%5Fbrazcubas%5Fedu%5Fbr%2FDocuments%2FV%C3%ADdeos%2FClipchamp%2FProjeto%20de%20V%C3%ADdeo%2FExports&ga=1))
 
 ## Tecnologias Utilizadas
 O ecossistema do Mercado Livre utiliza uma arquitetura baseada em microsserviços. As informações oficiais de engenharia da empresa apontam o uso das seguintes tecnologias:
