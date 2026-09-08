@@ -21,6 +21,11 @@ O Mercado Livre é a maior plataforma de comércio eletrônico e ecossistema de 
 * Painel de gerenciamento de vendas, estoque e anúncios para lojistas.
 * Abertura de reclamações e sistema de devolução de produtos (Compra Garantida).
 
+## Aplicação
+
+![Uploading Projeto de Vídeo.gif…]()
+
+
 ## Tecnologias Utilizadas
 O ecossistema do Mercado Livre utiliza uma arquitetura baseada em microsserviços. As informações oficiais de engenharia da empresa apontam o uso das seguintes tecnologias:
 * **Linguagens de Programação:** Java, Go (Golang), Python, Node.js.
