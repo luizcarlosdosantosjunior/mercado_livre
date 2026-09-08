@@ -1,3 +1,4 @@
+<img width="480" height="476" alt="logo" src="https://github.com/user-attachments/assets/84ec03f1-910d-4fd0-b0ae-5dc77bf2bf94" />
 # Mercado Livre
 
 ![Imagem Ilustrativa do Mercado Livre](logo.jpg)
