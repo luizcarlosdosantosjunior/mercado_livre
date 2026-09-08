@@ -1,7 +1,10 @@
 # Mercado Livre
 
+![Imagem Ilustrativa do Mercado Livre](logo.jpg)
+
 ## Descrição
 O Mercado Livre é a maior plataforma de comércio eletrônico e ecossistema de soluções financeiras da América Latina. Ele funciona como um marketplace que conecta compradores e vendedores, permitindo a comercialização de uma vasta gama de produtos novos e usados. O sistema deve ser utilizado quando um usuário deseja pesquisar, comparar preços e realizar compras online com segurança, ou quando pessoas físicas e empresas buscam um canal digital de grande alcance para vender seus produtos.
+
 
 ## Público Alvo
 * **Compradores:** Consumidores em geral que buscam conveniência, diversidade de produtos, preços competitivos e segurança nas transações.
